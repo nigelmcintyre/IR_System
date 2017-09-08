@@ -1,1 +1,3 @@
-In progress of tidying up and verifying results are correct. Sample queries and files ye to be uploadd. Stay tuned for updates
+In progress of tidying up and verifying results are correct. 
+Sample queries and files ye to be uploadd. 
+Stay tuned for updates...
